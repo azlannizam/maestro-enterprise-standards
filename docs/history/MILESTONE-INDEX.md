@@ -15,6 +15,7 @@ Milestones complement MES standards and MADs:
 | Milestone | Title | Status | Completion Date | Project |
 |---|---|---|---|---|
 | [MILESTONE-0001](MILESTONE-0001_FIRST_FULLY_GOVERNED_DELIVERY.md) | First Fully Governed Delivery | Completed | 2026-07-13 | PIP Assistant PA-M1 |
+| [MILESTONE-0002](MILESTONE-0002_FIRST_GOVERNED_CONVERSATIONAL_CAPABILITY.md) | First Governed Conversational Capability | Completed | 2026-07-13 | PIP Assistant PA-M2 |
 
 ## Index Maintenance Rules
 
