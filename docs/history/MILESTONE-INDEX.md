@@ -16,6 +16,7 @@ Milestones complement MES standards and MADs:
 |---|---|---|---|---|
 | [MILESTONE-0001](MILESTONE-0001_FIRST_FULLY_GOVERNED_DELIVERY.md) | First Fully Governed Delivery | Completed | 2026-07-13 | PIP Assistant PA-M1 |
 | [MILESTONE-0002](MILESTONE-0002_FIRST_GOVERNED_CONVERSATIONAL_CAPABILITY.md) | First Governed Conversational Capability | Completed | 2026-07-13 | PIP Assistant PA-M2 |
+| [MILESTONE-0003](MILESTONE-0003_ENGINEERING_MODEL_SELECTION_POLICY_ESTABLISHED.md) | Engineering Model Selection Policy Established | Completed | 2026-07-14 | Maestro Governance |
 
 ## Index Maintenance Rules
 
