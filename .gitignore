@@ -1,0 +1,2 @@
+# Local sync state (logs, manifests) — never committed, never synced.
+.sync/

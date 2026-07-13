@@ -1,0 +1,6 @@
+MES_REGISTRY.md
+00-foundation
+10-engineering
+40-ai
+docs/mad
+docs/history
