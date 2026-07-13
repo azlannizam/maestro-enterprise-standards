@@ -23,6 +23,7 @@ MADs complement MES standards:
 | [MAD-0006](MAD-0006_DRIVE_SYNC_BRIDGE.md) | Google Drive Institutional Memory Bridge | Accepted | 2026-07-13 | MES-001 MR-2, MR-3; MES-401 MR-8, MR-10 |
 | [MAD-0007](MAD-0007_AI_SESSION_LIFECYCLE.md) | AI Session Lifecycle | Accepted | 2026-07-13 | MES-001 MR-2, MR-3, MR-5; MES-401 MR-1, MR-8, MR-10, MR-11 |
 | [MAD-0008](MAD-0008_ENGINEERING_AGENT_TRANSPORT_INDEPENDENCE.md) | Engineering Agent Transport Independence | Accepted | 2026-07-13 | MES-001 MR-2, MR-3, MR-5; MES-401 MR-1, MR-11 |
+| [MAD-0009](MAD-0009_ENGINEERING_MODEL_SELECTION_POLICY.md) | Engineering Model Selection Policy | Accepted | 2026-07-13 | MES-001 MR-2, MR-3, MR-5; MES-401 MR-1, MR-11 |
 
 ## Status Legend
 
