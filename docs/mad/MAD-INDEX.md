@@ -28,12 +28,32 @@ MADs complement MES standards:
 | [MAD-0011](MAD-0011_EXECUTIVE_INTELLIGENCE_EXECUTION_INTELLIGENCE_BOUNDARY.md) | Executive Intelligence / Execution Intelligence Boundary | Accepted | 2026-07-14 | MES-001 MR-2, MR-4; MES-401 MR-1, MR-7, MR-11 |
 | [MAD-0012](MAD-0012_EXECUTIVE_ORDERS.md) | Executive Orders | Accepted | 2026-07-14 | MES-001 MR-2, MR-3, MR-4; MES-401 MR-1, MR-7, MR-11 |
 | [MAD-0013](MAD-0013_DETERMINISTIC_EXECUTIVE_REASONING_AND_MODEL_INDEPENDENT_RENDERING.md) | Deterministic Executive Reasoning and Model-Independent Rendering | Accepted | 2026-07-14 | MES-001 MR-2, MR-3, MR-4; MES-401 MR-1, MR-11 |
+| [MAD-0014](MAD-0014_SUBSCRIPTION_FIRST_AI_TRANSPORT_POLICY.md) | Subscription-First AI Transport Policy | Accepted | 2026-07-14 | MES-001 MR-2, MR-3, MR-4, MR-5; MES-401 MR-1, MR-11 |
 
 ## Proposed MADs
 
-| MAD | Title | Status | Date | MES Cross-References |
-|---|---|---|---|---|
-| [MAD-0014](MAD-0014_SUBSCRIPTION_FIRST_AI_TRANSPORT_POLICY.md) | Subscription-First AI Transport Policy | Proposed | 2026-07-14 | MES-001 MR-2, MR-3, MR-4, MR-5; MES-401 MR-1, MR-11 |
+_None._
+
+## Governance Actions — MAD-0014 Acceptance (2026-07-14)
+
+Independent review: **ORR-MAD-0014**
+(`docs/governance/ORR-MAD-0014_SUBSCRIPTION_FIRST_AI_TRANSPORT_POLICY.md`,
+reviewer Codex) — original verdict **Revision Required** (blocking B1, B2;
+medium M1). Remediation applied in commit `985e2a8`. Delta review: **ORR-
+MAD-0014-DELTA**
+(`docs/governance/ORR-MAD-0014_REMEDIATION_DELTA_REVIEW.md`, reviewer Codex)
+— verdict **PASS**, all three findings resolved, no remaining blocking, high,
+medium, or low finding; recommended CEO acceptance. **CEO acceptance:
+2026-07-14** — final authority action for MAD-0014.
+
+Registry actions taken as a result (per Index Maintenance Rule 3):
+
+1. MAD-0014 — status Proposed → **Accepted**; moved from "Proposed MADs" into
+   "Active MADs" above.
+2. No implementation is authorized by this acceptance. The Model Adapter,
+   Provider Adapter, Transport, and Provider integrations remain unbuilt and
+   require separate governed authorization under their own implementation
+   increment and MES-101/102/103.
 
 ## Governance Actions — OR-I1 Gate Acceptance (2026-07-14)
 

@@ -4,13 +4,14 @@
 |---|---|
 | MAD ID | MAD-0014 |
 | Title | Subscription-First AI Transport Policy |
-| Status | Proposed |
+| Status | **Accepted** |
 | Date | 2026-07-14 |
+| Accepted Date | 2026-07-14 |
 | Owner | Architecture Owner |
 | Scope | Orion Runtime — the Model Adapter boundary between Orion and AI providers, for **inference only**, for personal deployment |
 | MES Cross-References | MES-001 MR-2, MR-3, MR-4, MR-5; MES-401 MR-1, MR-11 |
 | Related | OOM-0001; OAR-0001; OWP-0001; MAD-0008 (transport independence — the execution-layer analogue, and the engineering Agent Transport this MAD's Orion Model Transport is distinct from); MAD-0009 (model selection policy); MAD-0011 (Executive/Execution boundary); MAD-0013 (deterministic reasoning and model-independent rendering) |
-| Independent Review | ORR-MAD-0014 (`docs/governance/ORR-MAD-0014_SUBSCRIPTION_FIRST_AI_TRANSPORT_POLICY.md`) — verdict **Revision Required**; blocking B1, B2, medium M1. This revision resolves all three findings (see Review Notes). Repeat independent review required before CEO acceptance. |
+| Independent Review | ORR-MAD-0014 (`docs/governance/ORR-MAD-0014_SUBSCRIPTION_FIRST_AI_TRANSPORT_POLICY.md`) — original verdict **Revision Required** (blocking B1, B2; medium M1). ORR-MAD-0014-DELTA (`docs/governance/ORR-MAD-0014_REMEDIATION_DELTA_REVIEW.md`) — verdict **PASS**, all three findings resolved, remediation commit `985e2a8`; recommended CEO acceptance. |
 
 ## Context
 
@@ -288,6 +289,12 @@ revision resolves them as follows:
   Transport → External Provider, and Permanent Rule 7 requiring that layering
   and prohibiting providers from appearing directly above a Transport.
 
-Independent review and CEO acceptance are still required before this MAD
-moves from Proposed to Accepted; no implementation is authorized by this
-capture.
+**Acceptance record.** Independent delta review ORR-MAD-0014-DELTA
+(`docs/governance/ORR-MAD-0014_REMEDIATION_DELTA_REVIEW.md`, remediation
+commit `985e2a8`) verified B1, B2, and M1 fully resolved with no remaining
+blocking, high, medium, or low finding, and recommended CEO acceptance.
+**CEO acceptance: 2026-07-14.** This is the final authority action; Status
+above is now Accepted. No implementation is authorized by this capture — the
+Model Adapter, Provider Adapter, Transport, and Provider integrations remain
+unbuilt and require separate governed authorization under their own
+implementation increment and MES-101/102/103.
