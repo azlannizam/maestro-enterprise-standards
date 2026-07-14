@@ -31,7 +31,9 @@ MADs complement MES standards:
 
 ## Proposed MADs
 
-_None._
+| MAD | Title | Status | Date | MES Cross-References |
+|---|---|---|---|---|
+| [MAD-0014](MAD-0014_SUBSCRIPTION_FIRST_AI_TRANSPORT_POLICY.md) | Subscription-First AI Transport Policy | Proposed | 2026-07-14 | MES-001 MR-2, MR-3, MR-4, MR-5; MES-401 MR-1, MR-11 |
 
 ## Governance Actions — OR-I1 Gate Acceptance (2026-07-14)
 
