@@ -27,16 +27,32 @@ MADs complement MES standards:
 | [MAD-0010](MAD-0010_ORION_STUDIO_AS_EXECUTIVE_OPERATING_SYSTEM.md) | Orion Studio as the Executive Operating System | Accepted | 2026-07-14 | MES-001 MR-2, MR-3; MES-401 MR-1, MR-7, MR-11 |
 | [MAD-0011](MAD-0011_EXECUTIVE_INTELLIGENCE_EXECUTION_INTELLIGENCE_BOUNDARY.md) | Executive Intelligence / Execution Intelligence Boundary | Accepted | 2026-07-14 | MES-001 MR-2, MR-4; MES-401 MR-1, MR-7, MR-11 |
 | [MAD-0012](MAD-0012_EXECUTIVE_ORDERS.md) | Executive Orders | Accepted | 2026-07-14 | MES-001 MR-2, MR-3, MR-4; MES-401 MR-1, MR-7, MR-11 |
+| [MAD-0013](MAD-0013_DETERMINISTIC_EXECUTIVE_REASONING_AND_MODEL_INDEPENDENT_RENDERING.md) | Deterministic Executive Reasoning and Model-Independent Rendering | Accepted | 2026-07-14 | MES-001 MR-2, MR-3, MR-4; MES-401 MR-1, MR-11 |
 
 ## Proposed MADs
 
-| MAD | Title | Status | Date | MES Cross-References |
-|---|---|---|---|---|
-| [MAD-0013](MAD-0013_DETERMINISTIC_EXECUTIVE_REASONING_AND_MODEL_INDEPENDENT_RENDERING.md) | Deterministic Executive Reasoning and Model-Independent Rendering | Proposed | 2026-07-14 | MES-001 MR-2, MR-3, MR-4; MES-401 MR-1, MR-11 |
+_None._
 
-Proposed with OWP-0001 v1.1 (Orion programme re-sequence). Blocks OR-I1 (the
-Executive Conversation Runtime) until independently reviewed and CEO-accepted.
-Not binding while Proposed.
+## Governance Actions — OR-I1 Gate Acceptance (2026-07-14)
+
+Independent review: **ORR-OR-I1**
+(`docs/governance/ORR-OR-I1_GOVERNANCE_GATE_REVIEW.md`, reviewer Codex) — verdict
+**Accept with low advisory**; zero blocking, high, or medium findings. **CEO
+acceptance: 2026-07-14** — final authority action for OWP-0001 v1.1 (Orion
+programme re-sequence, `orion-runtime`) and MAD-0013.
+
+Registry actions taken as a result (per Index Maintenance Rule 3):
+
+1. MAD-0013 — status Proposed → **Accepted**; moved from "Proposed MADs" into
+   "Active MADs" above.
+2. OWP-0001 v1.1 — status v1.1 Proposed → **Accepted** in `orion-runtime`
+   (the Orion governance register, independent of Maestro).
+3. Advisory **ORR-OR-I1-L1** (low) resolved in OWP-0001 OR-I1: conversation
+   working memory is documented as ephemeral, in-process session state only — not
+   Executive Memory, storage, an API/LLM dependency, or a durable record.
+4. **OR-I1 governance gate (OWP-0001 §3) is now satisfied.** OR-I1 (the Executive
+   Conversation Runtime) is authorized to build, subject to its own OWP and
+   MES-101/102/103.
 
 ## Governance Actions — OR-A1 Acceptance (2026-07-14)
 

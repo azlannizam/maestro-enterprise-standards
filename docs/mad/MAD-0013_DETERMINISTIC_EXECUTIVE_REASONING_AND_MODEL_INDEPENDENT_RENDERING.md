@@ -4,9 +4,11 @@
 |---|---|
 | MAD ID | MAD-0013 |
 | Title | Deterministic Executive Reasoning and Model-Independent Rendering |
-| Status | Proposed |
+| Status | **Accepted** |
 | Date | 2026-07-14 |
+| Accepted Date | 2026-07-14 |
 | Owner | Architecture Owner |
+| Independent Review | Confirmed by ORR-OR-I1 (`maestro-enterprise-standards/docs/governance/ORR-OR-I1_GOVERNANCE_GATE_REVIEW.md`) — verdict Accept with low advisory; no blocking/high/medium findings. |
 | Scope | Orion Runtime — the executive reasoning core and its response rendering boundary |
 | MES Cross-References | MES-001 MR-2, MR-3, MR-4; MES-401 MR-1, MR-11 |
 | Related | OOM-0001; OAR-0001 §5.1, §5.5; OWP-0001 v1.1 §3.2, §4; MAD-0008 (transport independence — the execution-layer analogue); MAD-0011 |
