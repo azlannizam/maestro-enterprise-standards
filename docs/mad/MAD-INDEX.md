@@ -28,6 +28,16 @@ MADs complement MES standards:
 | [MAD-0011](MAD-0011_EXECUTIVE_INTELLIGENCE_EXECUTION_INTELLIGENCE_BOUNDARY.md) | Executive Intelligence / Execution Intelligence Boundary | Accepted | 2026-07-14 | MES-001 MR-2, MR-4; MES-401 MR-1, MR-7, MR-11 |
 | [MAD-0012](MAD-0012_EXECUTIVE_ORDERS.md) | Executive Orders | Accepted | 2026-07-14 | MES-001 MR-2, MR-3, MR-4; MES-401 MR-1, MR-7, MR-11 |
 
+## Proposed MADs
+
+| MAD | Title | Status | Date | MES Cross-References |
+|---|---|---|---|---|
+| [MAD-0013](MAD-0013_DETERMINISTIC_EXECUTIVE_REASONING_AND_MODEL_INDEPENDENT_RENDERING.md) | Deterministic Executive Reasoning and Model-Independent Rendering | Proposed | 2026-07-14 | MES-001 MR-2, MR-3, MR-4; MES-401 MR-1, MR-11 |
+
+Proposed with OWP-0001 v1.1 (Orion programme re-sequence). Blocks OR-I1 (the
+Executive Conversation Runtime) until independently reviewed and CEO-accepted.
+Not binding while Proposed.
+
 ## Governance Actions — OR-A1 Acceptance (2026-07-14)
 
 Independent review: **ORR-OR-A1-MAD-0010-0012**, commit
