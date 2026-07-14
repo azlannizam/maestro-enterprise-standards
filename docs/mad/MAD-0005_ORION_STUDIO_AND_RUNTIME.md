@@ -4,11 +4,20 @@
 |---|---|
 | MAD ID | MAD-0005 |
 | Title | Orion Studio and Runtime |
-| Status | Accepted |
+| Status | **Superseded** by MAD-0010 |
 | Date | 2026-07-13 |
+| Superseded Date | 2026-07-14 |
 | Owner | AI Governance Owner |
 | Scope | Orion operating contexts, communication style, governance posture |
 | MES Cross-References | MES-001 MR-2, MR-3; MES-401 MR-1, MR-2, MR-8, MR-10, MR-11 |
+| Superseded By | **MAD-0010** — Orion Studio as the Executive Operating System (Accepted 2026-07-14) |
+
+> **Supersession notice.** On CEO acceptance of MAD-0010 (2026-07-14), this MAD
+> is **Superseded**. Its "Primary environment: ChatGPT" assumption no longer
+> stands. The content below is **preserved for historical record**; it is not
+> binding. See MAD-0010 §"MAD-0005 rule carry-forward / retirement" for the
+> disposition of each rule below (which are retired, and which continue to bind
+> under a new home).
 
 ## Context
 
